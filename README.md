@@ -1,4 +1,4 @@
-## Hi there 👋 I’m @PRUDHVI SAI GOWTHAM CHILAMAKURI
+## Hi there 👋 I’m @ PRUDHVI SAI GOWTHAM CHILAMAKURI
 
 - 👀 I’m interested in 📊 **Data Science**, 🔍 **Data Analytics**, and 📈 **Business Analyst**.
 - 🔭 Currently working on [data-driven projects](https://github.com/Sai-gowtham1998) and developing machine learning models.
